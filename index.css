@@ -1029,8 +1029,9 @@ body {
 
 .downRes {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
+  flex-direction: row;
 }
 
 @media screen and (max-width: 1200px) {
