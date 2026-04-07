@@ -1013,10 +1013,7 @@ body {
   padding: 1.2rem 2.5rem;
   outline: none;
   border: none;
-  border-radius: 4px;
-  background: #77A1D3;
-  background: -webkit-linear-gradient(to left, #E684AE, #79CBCA, #77A1D3);
-  background: linear-gradient(to left, #E684AE, #79CBCA, #77A1D3);
+  background-color: rgba(0, 0, 0, 0);
   text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
   color: #ffff;
   font-size: 1.5rem;
